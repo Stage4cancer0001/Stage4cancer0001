@@ -1,8 +1,12 @@
-<div align="center" >
+<div align="center">
 <table width="100%">
 
 ### eskol
+
+
 ### pasting since 2018 🔥
+
+
 ### Languages i know: English, C++, Luau, Javascript, Java, HTML (rel), CSS, Python, C, Chinese
 
 
