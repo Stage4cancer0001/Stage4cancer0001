@@ -1,5 +1,5 @@
-<div allign = "center">
-<table width = 100%>
+<div align="center" >
+<table width="100%">
 
 ### eskol
 ### pasting since 2018 🔥
