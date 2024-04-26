@@ -1,3 +1,3 @@
 # wassup
-<div>languages I know</div>
-![](https://komarev.com/ghpvc/?username=eskolzz)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eskolzz)](https://github.com/anuraghazra/github-readme-stats)
